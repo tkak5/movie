@@ -1,0 +1,1025 @@
+{
+  "max": 763455561,
+  "movies": [
+    {
+      "title": "The Lion King",
+      "worldwide": 763455561
+    },
+    {
+      "title": "Forrest Gump",
+      "worldwide": 677387716
+    },
+    {
+      "title": "True Lies",
+      "worldwide": 378882411
+    },
+    {
+      "title": "The Mask",
+      "worldwide": 351583407
+    },
+    {
+      "title": "Speed",
+      "worldwide": 350448145
+    },
+    {
+      "title": "The Flintstones",
+      "worldwide": 341631208
+    },
+    {
+      "title": "Dumb and Dumber",
+      "worldwide": 247275374
+    },
+    {
+      "title": "Four Weddings and a Funeral",
+      "worldwide": 245700832
+    },
+    {
+      "title": "Interview with the Vampire: The Vampire Chronicles",
+      "worldwide": 223664608
+    },
+    {
+      "title": "Clear and Present Danger",
+      "worldwide": 215887717
+    },
+    {
+      "title": "Disclosure",
+      "worldwide": 214015089
+    },
+    {
+      "title": "Pulp Fiction",
+      "worldwide": 213928762
+    },
+    {
+      "title": "Stargate",
+      "worldwide": 196567262
+    },
+    {
+      "title": "The Santa Clause",
+      "worldwide": 189833357
+    },
+    {
+      "title": "Maverick",
+      "worldwide": 183031272
+    },
+    {
+      "title": "The Specialist",
+      "worldwide": 170362582
+    },
+    {
+      "title": "Legends of the Fall",
+      "worldwide": 160638883
+    },
+    {
+      "title": "Wolf",
+      "worldwide": 131002597
+    },
+    {
+      "title": "Beverly Hills Cop III",
+      "worldwide": 119208989
+    },
+    {
+      "title": "Star Trek: Generations",
+      "worldwide": 118071125
+    },
+    {
+      "title": "The Client",
+      "worldwide": 117615211
+    },
+    {
+      "title": "Mary Shelley's Frankenstein",
+      "worldwide": 112006296
+    },
+    {
+      "title": "Junior",
+      "worldwide": 108431355
+    },
+    {
+      "title": "Ace Ventura: Pet Detective",
+      "worldwide": 107217396
+    },
+    {
+      "title": "Nell",
+      "worldwide": 106683817
+    },
+    {
+      "title": "Timecop",
+      "worldwide": 101646581
+    },
+    {
+      "title": "Street Fighter",
+      "worldwide": 99431786
+    },
+    {
+      "title": "The River Wild",
+      "worldwide": 94216343
+    },
+    {
+      "title": "The Little Rascals",
+      "worldwide": 67308282
+    },
+    {
+      "title": "Naked Gun 33 1/3: The Final Insult",
+      "worldwide": 51132598
+    },
+    {
+      "title": "The Crow",
+      "worldwide": 50693129
+    },
+    {
+      "title": "Natural Born Killers",
+      "worldwide": 50282766
+    },
+    {
+      "title": "Angels in the Outfield",
+      "worldwide": 50236831
+    },
+    {
+      "title": "Little Women",
+      "worldwide": 50083616
+    },
+    {
+      "title": "When a Man Loves a Woman",
+      "worldwide": 50021959
+    },
+    {
+      "title": "The Paper",
+      "worldwide": 48424341
+    },
+    {
+      "title": "The Shadow",
+      "worldwide": 48063435
+    },
+    {
+      "title": "Miracle on 34th Street",
+      "worldwide": 46264384
+    },
+    {
+      "title": "D2: The Mighty Ducks",
+      "worldwide": 45610410
+    },
+    {
+      "title": "City Slickers II: The Legend of Curly's Gold",
+      "worldwide": 43622150
+    },
+    {
+      "title": "The Jungle Book",
+      "worldwide": 43229904
+    },
+    {
+      "title": "Nobody's Fool",
+      "worldwide": 39491975
+    },
+    {
+      "title": "On Deadly Ground",
+      "worldwide": 38590458
+    },
+    {
+      "title": "Ri¢hie Ri¢h",
+      "worldwide": 38087756
+    },
+    {
+      "title": "It Could Happen to You",
+      "worldwide": 37939757
+    },
+    {
+      "title": "Reality Bites",
+      "worldwide": 33351557
+    },
+    {
+      "title": "I Love Trouble",
+      "worldwide": 30806194
+    },
+    {
+      "title": "Major League II",
+      "worldwide": 30626182
+    },
+    {
+      "title": "Blank Check",
+      "worldwide": 30577969
+    },
+    {
+      "title": "Blown Away",
+      "worldwide": 30156002
+    },
+    {
+      "title": "The Getaway",
+      "worldwide": 30057974
+    },
+    {
+      "title": "A Low Down Dirty Shame",
+      "worldwide": 29392418
+    },
+    {
+      "title": "In the Army Now",
+      "worldwide": 28881266
+    },
+    {
+      "title": "Drop Zone",
+      "worldwide": 28735315
+    },
+    {
+      "title": "The Shawshank Redemption",
+      "worldwide": 28428150
+    },
+    {
+      "title": "Guarding Tess",
+      "worldwide": 27058304
+    },
+    {
+      "title": "I.Q.",
+      "worldwide": 26381221
+    },
+    {
+      "title": "My Father the Hero",
+      "worldwide": 25479558
+    },
+    {
+      "title": "Wyatt Earp",
+      "worldwide": 25052000
+    },
+    {
+      "title": "Quiz Show",
+      "worldwide": 24822619
+    },
+    {
+      "title": "Renaissance Man",
+      "worldwide": 24332324
+    },
+    {
+      "title": "Blue Chips",
+      "worldwide": 23070663
+    },
+    {
+      "title": "Intersection",
+      "worldwide": 21355893
+    },
+    {
+      "title": "The Air Up There",
+      "worldwide": 21011318
+    },
+    {
+      "title": "Iron Will",
+      "worldwide": 21006361
+    },
+    {
+      "title": "Jason's Lyric",
+      "worldwide": 20851521
+    },
+    {
+      "title": "Speechless",
+      "worldwide": 20667959
+    },
+    {
+      "title": "The Cowboy Way",
+      "worldwide": 20280016
+    },
+    {
+      "title": "Corrina, Corrina",
+      "worldwide": 20164171
+    },
+    {
+      "title": "Only You",
+      "worldwide": 20059210
+    },
+    {
+      "title": "With Honors",
+      "worldwide": 20016254
+    },
+    {
+      "title": "Color of Night",
+      "worldwide": 19726050
+    },
+    {
+      "title": "Wes Craven's New Nightmare",
+      "worldwide": 19721741
+    },
+    {
+      "title": "8 Seconds",
+      "worldwide": 19623396
+    },
+    {
+      "title": "Léon: The Professional",
+      "worldwide": 19501238
+    },
+    {
+      "title": "Little Giants",
+      "worldwide": 19306362
+    },
+    {
+      "title": "House Party 3",
+      "worldwide": 19281235
+    },
+    {
+      "title": "Getting Even with Dad",
+      "worldwide": 18869594
+    },
+    {
+      "title": "Love Affair",
+      "worldwide": 18272894
+    },
+    {
+      "title": "Sugar Hill",
+      "worldwide": 18225518
+    },
+    {
+      "title": "Milk Money",
+      "worldwide": 18137661
+    },
+    {
+      "title": "My Girl 2",
+      "worldwide": 17359799
+    },
+    {
+      "title": "The War",
+      "worldwide": 16928556
+    },
+    {
+      "title": "Baby's Day Out",
+      "worldwide": 16827402
+    },
+    {
+      "title": "Lightning Jack",
+      "worldwide": 16821273
+    },
+    {
+      "title": "Andre",
+      "worldwide": 16820893
+    },
+    {
+      "title": "Blink",
+      "worldwide": 16696219
+    },
+    {
+      "title": "Terminal Velocity",
+      "worldwide": 16487349
+    },
+    {
+      "title": "Monkey Trouble",
+      "worldwide": 16453258
+    },
+    {
+      "title": "Above the Rim",
+      "worldwide": 16192320
+    },
+    {
+      "title": "The Next Karate Kid",
+      "worldwide": 15876353
+    },
+    {
+      "title": "No Escape",
+      "worldwide": 15339030
+    },
+    {
+      "title": "Bad Girls",
+      "worldwide": 15240435
+    },
+    {
+      "title": "The Madness of King George",
+      "worldwide": 15238689
+    },
+    {
+      "title": "Threesome",
+      "worldwide": 14815317
+    },
+    {
+      "title": "The Pagemaster",
+      "worldwide": 13670688
+    },
+    {
+      "title": "Crooklyn",
+      "worldwide": 13642861
+    },
+    {
+      "title": "Bullets Over Broadway",
+      "worldwide": 13383747
+    },
+    {
+      "title": "Greedy",
+      "worldwide": 13137484
+    },
+    {
+      "title": "Little Big League",
+      "worldwide": 12267790
+    },
+    {
+      "title": "Hoop Dreams",
+      "worldwide": 11830611
+    },
+    {
+      "title": "3 Ninjas Kick Back",
+      "worldwide": 11798854
+    },
+    {
+      "title": "The Ref",
+      "worldwide": 11439193
+    },
+    {
+      "title": "Cops and Robbersons",
+      "worldwide": 11391093
+    },
+    {
+      "title": "Thumbelina",
+      "worldwide": 11373501
+    },
+    {
+      "title": "Ready to Wear",
+      "worldwide": 11300653
+    },
+    {
+      "title": "The Adventures of Priscilla, Queen of the Desert",
+      "worldwide": 11220670
+    },
+    {
+      "title": "Camp Nowhere",
+      "worldwide": 10475705
+    },
+    {
+      "title": "I'll Do Anything",
+      "worldwide": 10424645
+    },
+    {
+      "title": "Martin Lawrence: You So Crazy",
+      "worldwide": 10184701
+    },
+    {
+      "title": "Lassie",
+      "worldwide": 9979683
+    },
+    {
+      "title": "Immortal Beloved",
+      "worldwide": 9914409
+    },
+    {
+      "title": "The Swan Princess",
+      "worldwide": 9771658
+    },
+    {
+      "title": "Angie",
+      "worldwide": 9398308
+    },
+    {
+      "title": "The Inkwell",
+      "worldwide": 8880705
+    },
+    {
+      "title": "White Fang 2: Myth of the White Wolf",
+      "worldwide": 8878839
+    },
+    {
+      "title": "The Puppet Masters",
+      "worldwide": 8647042
+    },
+    {
+      "title": "Fresh",
+      "worldwide": 8094616
+    },
+    {
+      "title": "Blankman",
+      "worldwide": 7941977
+    },
+    {
+      "title": "The Chase",
+      "worldwide": 7924955
+    },
+    {
+      "title": "Serial Mom",
+      "worldwide": 7820688
+    },
+    {
+      "title": "Sirens",
+      "worldwide": 7770731
+    },
+    {
+      "title": "Surviving the Game",
+      "worldwide": 7727256
+    },
+    {
+      "title": "Clifford",
+      "worldwide": 7408745
+    },
+    {
+      "title": "Clean Slate",
+      "worldwide": 7355425
+    },
+    {
+      "title": "Eat Drink Man Woman",
+      "worldwide": 7294403
+    },
+    {
+      "title": "Barcelona",
+      "worldwide": 7266973
+    },
+    {
+      "title": "North",
+      "worldwide": 7182747
+    },
+    {
+      "title": "Trial by Jury",
+      "worldwide": 6971777
+    },
+    {
+      "title": "Exit to Eden",
+      "worldwide": 6841570
+    },
+    {
+      "title": "Mixed Nuts",
+      "worldwide": 6821850
+    },
+    {
+      "title": "The Road to Wellville",
+      "worldwide": 6562513
+    },
+    {
+      "title": "The House of the Spirits",
+      "worldwide": 6265311
+    },
+    {
+      "title": "Widows' Peak",
+      "worldwide": 6243722
+    },
+    {
+      "title": "Trapped in Paradise",
+      "worldwide": 6017509
+    },
+    {
+      "title": "Ed Wood",
+      "worldwide": 5887457
+    },
+    {
+      "title": "The Last Seduction",
+      "worldwide": 5842603
+    },
+    {
+      "title": "Airheads",
+      "worldwide": 5751882
+    },
+    {
+      "title": "Belle Epoque",
+      "worldwide": 5418216
+    },
+    {
+      "title": "Little Buddha",
+      "worldwide": 4858139
+    },
+    {
+      "title": "Black Beauty",
+      "worldwide": 4630377
+    },
+    {
+      "title": "Wagons East",
+      "worldwide": 4412297
+    },
+    {
+      "title": "Brainscan",
+      "worldwide": 4352094
+    },
+    {
+      "title": "PCU",
+      "worldwide": 4330020
+    },
+    {
+      "title": "Jimmy Hollywood",
+      "worldwide": 3783003
+    },
+    {
+      "title": "Cabin Boy",
+      "worldwide": 3662459
+    },
+    {
+      "title": "Three Colors: Red",
+      "worldwide": 3581969
+    },
+    {
+      "title": "A Simple Twist of Fate",
+      "worldwide": 3430583
+    },
+    {
+      "title": "Gunmen",
+      "worldwide": 3411885
+    },
+    {
+      "title": "Blue Sky",
+      "worldwide": 3359465
+    },
+    {
+      "title": "Squanto: A Warrior's Tale",
+      "worldwide": 3342223
+    },
+    {
+      "title": "Romeo Is Bleeding",
+      "worldwide": 3275585
+    },
+    {
+      "title": "Mi vida loca",
+      "worldwide": 3267313
+    },
+    {
+      "title": "Silent Fall",
+      "worldwide": 3180674
+    },
+    {
+      "title": "Clerks",
+      "worldwide": 3151130
+    },
+    {
+      "title": "The Favor",
+      "worldwide": 3134381
+    },
+    {
+      "title": "Death and the Maiden",
+      "worldwide": 3103716
+    },
+    {
+      "title": "Princess Caraboo",
+      "worldwide": 3062530
+    },
+    {
+      "title": "Heavenly Creatures",
+      "worldwide": 3049135
+    },
+    {
+      "title": "China Moon",
+      "worldwide": 3038499
+    },
+    {
+      "title": "The Hudsucker Proxy",
+      "worldwide": 2816518
+    },
+    {
+      "title": "The Scout",
+      "worldwide": 2694234
+    },
+    {
+      "title": "Red Rock West",
+      "worldwide": 2502551
+    },
+    {
+      "title": "Backbeat",
+      "worldwide": 2392589
+    },
+    {
+      "title": "Double Dragon",
+      "worldwide": 2341309
+    },
+    {
+      "title": "To Live",
+      "worldwide": 2332728
+    },
+    {
+      "title": "A Good Man in Africa",
+      "worldwide": 2308390
+    },
+    {
+      "title": "Leprechaun 2",
+      "worldwide": 2260622
+    },
+    {
+      "title": "The Endless Summer 2",
+      "worldwide": 2155385
+    },
+    {
+      "title": "Mrs. Parker and the Vicious Circle",
+      "worldwide": 2144667
+    },
+    {
+      "title": "The Princess and the Goblin",
+      "worldwide": 2105078
+    },
+    {
+      "title": "Kika",
+      "worldwide": 2019581
+    },
+    {
+      "title": "Vertical Reality",
+      "worldwide": 1951429
+    },
+    {
+      "title": "Bitter Moon",
+      "worldwide": 1862805
+    },
+    {
+      "title": "I Like It Like That",
+      "worldwide": 1760527
+    },
+    {
+      "title": "Vanya on 42nd Street",
+      "worldwide": 1746050
+    },
+    {
+      "title": "Even Cowgirls Get the Blues",
+      "worldwide": 1708873
+    },
+    {
+      "title": "Death Wish V: The Face of Death",
+      "worldwide": 1702394
+    },
+    {
+      "title": "The Scent of Green Papaya",
+      "worldwide": 1700992
+    },
+    {
+      "title": "Safe Passage",
+      "worldwide": 1618282
+    },
+    {
+      "title": "Chasers",
+      "worldwide": 1596687
+    },
+    {
+      "title": "Being Human",
+      "worldwide": 1519366
+    },
+    {
+      "title": "Spanking the Monkey",
+      "worldwide": 1359736
+    },
+    {
+      "title": "Radioland Murders",
+      "worldwide": 1316865
+    },
+    {
+      "title": "Queen Margot",
+      "worldwide": 1292232
+    },
+    {
+      "title": "Car 54, Where Are You?",
+      "worldwide": 1238080
+    },
+    {
+      "title": "Three Colors: White",
+      "worldwide": 1237219
+    },
+    {
+      "title": "A Million to Juan",
+      "worldwide": 1220842
+    },
+    {
+      "title": "Ciao, Professore!",
+      "worldwide": 1113435
+    },
+    {
+      "title": "Naked in New York",
+      "worldwide": 1038959
+    },
+    {
+      "title": "Cobb",
+      "worldwide": 1007583
+    },
+    {
+      "title": "A Man of No Importance",
+      "worldwide": 920916
+    },
+    {
+      "title": "Mother's Boys",
+      "worldwide": 737548
+    },
+    {
+      "title": "Drop Squad",
+      "worldwide": 734693
+    },
+    {
+      "title": "Holy Matrimony",
+      "worldwide": 713234
+    },
+    {
+      "title": "Savage Nights",
+      "worldwide": 662341
+    },
+    {
+      "title": "Cronos",
+      "worldwide": 621392
+    },
+    {
+      "title": "The Advocate",
+      "worldwide": 602329
+    },
+    {
+      "title": "Where the Rivers Flow North",
+      "worldwide": 595505
+    },
+    {
+      "title": "Tom & Viv",
+      "worldwide": 538534
+    },
+    {
+      "title": "Federal Hill",
+      "worldwide": 514775
+    },
+    {
+      "title": "The Browning Version",
+      "worldwide": 487391
+    },
+    {
+      "title": "Colonel Chabert",
+      "worldwide": 464284
+    },
+    {
+      "title": "The Wonderful, Horrible Life of Leni Riefenstahl",
+      "worldwide": 449707
+    },
+    {
+      "title": "Body Snatchers",
+      "worldwide": 428868
+    },
+    {
+      "title": "Killing Zoe",
+      "worldwide": 418961
+    },
+    {
+      "title": "Golden Gate",
+      "worldwide": 395105
+    },
+    {
+      "title": "Nostradamus",
+      "worldwide": 364164
+    },
+    {
+      "title": "The Cement Garden",
+      "worldwide": 322975
+    },
+    {
+      "title": "Trading Mom",
+      "worldwide": 319123
+    },
+    {
+      "title": "The Slingshot",
+      "worldwide": 308368
+    },
+    {
+      "title": "Rapa Nui",
+      "worldwide": 305070
+    },
+    {
+      "title": "Killer",
+      "worldwide": 297415
+    },
+    {
+      "title": "That's Entertainment! III",
+      "worldwide": 280163
+    },
+    {
+      "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb 1994 Re-release",
+      "worldwide": 275902
+    },
+    {
+      "title": "Café au lait",
+      "worldwide": 274596
+    },
+    {
+      "title": "Dream Lover",
+      "worldwide": 256264
+    },
+    {
+      "title": "The New Age",
+      "worldwide": 245217
+    },
+    {
+      "title": "Fear of a Black Hat",
+      "worldwide": 233824
+    },
+    {
+      "title": "Zero Patience",
+      "worldwide": 217300
+    },
+    {
+      "title": "Sleep with Me",
+      "worldwide": 200151
+    },
+    {
+      "title": "My Life's in Turnaround",
+      "worldwide": 163383
+    },
+    {
+      "title": "Ladybird Ladybird",
+      "worldwide": 152457
+    },
+    {
+      "title": "La scorta",
+      "worldwide": 147107
+    },
+    {
+      "title": "The Kingdom",
+      "worldwide": 144487
+    },
+    {
+      "title": "Police Academy: Mission to Moscow",
+      "worldwide": 126247
+    },
+    {
+      "title": "Oleanna",
+      "worldwide": 124693
+    },
+    {
+      "title": "There Goes My Baby",
+      "worldwide": 123509
+    },
+    {
+      "title": "Totally F***ed Up",
+      "worldwide": 101071
+    },
+    {
+      "title": "A Place in the World",
+      "worldwide": 99707
+    },
+    {
+      "title": "In Custody",
+      "worldwide": 92612
+    },
+    {
+      "title": "Raining Stones",
+      "worldwide": 89995
+    },
+    {
+      "title": "Imaginary Crimes",
+      "worldwide": 89611
+    },
+    {
+      "title": "Second Best",
+      "worldwide": 86115
+    },
+    {
+      "title": "The Beans of Egypt, Maine",
+      "worldwide": 73956
+    },
+    {
+      "title": "A Troll in Central Park",
+      "worldwide": 71368
+    },
+    {
+      "title": "Freedom on My Mind",
+      "worldwide": 71176
+    },
+    {
+      "title": "It Runs in the Family",
+      "worldwide": 70936
+    },
+    {
+      "title": "The Secret Adventures of Tom Thumb",
+      "worldwide": 70441
+    },
+    {
+      "title": "Silent Tongue",
+      "worldwide": 61274
+    },
+    {
+      "title": "It's Pat: The Movie",
+      "worldwide": 60822
+    },
+    {
+      "title": "The Making of '...And God Spoke'",
+      "worldwide": 58484
+    },
+    {
+      "title": "High Lonesome: The Story of Bluegrass Music",
+      "worldwide": 53319
+    },
+    {
+      "title": "Frank & Jesse",
+      "worldwide": 50004
+    },
+    {
+      "title": "Paris, France",
+      "worldwide": 44159
+    },
+    {
+      "title": "L'Enfer",
+      "worldwide": 39003
+    },
+    {
+      "title": "Salmonberries",
+      "worldwide": 37484
+    },
+    {
+      "title": "Love and a .45",
+      "worldwide": 35200
+    },
+    {
+      "title": "L.627",
+      "worldwide": 28540
+    },
+    {
+      "title": "American Masters: The Life and Times of Allen Ginsberg",
+      "worldwide": 22692
+    },
+    {
+      "title": "Floundering",
+      "worldwide": 20031
+    },
+    {
+      "title": "The Secret Rapture",
+      "worldwide": 18719
+    },
+    {
+      "title": "Whore 2",
+      "worldwide": 14320
+    },
+    {
+      "title": "Pontiac Moon",
+      "worldwide": 11669
+    },
+    {
+      "title": "Century",
+      "worldwide": 7271
+    }
+  ]
+}

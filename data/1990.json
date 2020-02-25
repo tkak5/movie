@@ -1,0 +1,901 @@
+{
+  "max": 505702588,
+  "movies": [
+    {
+      "title": "Ghost",
+      "worldwide": 505702588
+    },
+    {
+      "title": "Home Alone",
+      "worldwide": 476684675
+    },
+    {
+      "title": "Pretty Woman",
+      "worldwide": 463406268
+    },
+    {
+      "title": "Dances with Wolves",
+      "worldwide": 424208848
+    },
+    {
+      "title": "Total Recall",
+      "worldwide": 261299840
+    },
+    {
+      "title": "Back to the Future Part III",
+      "worldwide": 244527583
+    },
+    {
+      "title": "Die Hard 2",
+      "worldwide": 240031094
+    },
+    {
+      "title": "Presumed Innocent",
+      "worldwide": 221303188
+    },
+    {
+      "title": "Teenage Mutant Ninja Turtles",
+      "worldwide": 201965915
+    },
+    {
+      "title": "Kindergarten Cop",
+      "worldwide": 201957688
+    },
+    {
+      "title": "The Hunt for Red October",
+      "worldwide": 200512643
+    },
+    {
+      "title": "Dick Tracy",
+      "worldwide": 162738726
+    },
+    {
+      "title": "Days of Thunder",
+      "worldwide": 157920733
+    },
+    {
+      "title": "Another 48 Hrs.",
+      "worldwide": 153518974
+    },
+    {
+      "title": "Bird on a Wire",
+      "worldwide": 138697012
+    },
+    {
+      "title": "The Godfather: Part III",
+      "worldwide": 136766062
+    },
+    {
+      "title": "Rocky V",
+      "worldwide": 119946358
+    },
+    {
+      "title": "Edward Scissorhands",
+      "worldwide": 86024005
+    },
+    {
+      "title": "Problem Child",
+      "worldwide": 72270891
+    },
+    {
+      "title": "Three Men and a Little Lady",
+      "worldwide": 71609321
+    },
+    {
+      "title": "Flatliners",
+      "worldwide": 61489265
+    },
+    {
+      "title": "Misery",
+      "worldwide": 61276872
+    },
+    {
+      "title": "Marked for Death",
+      "worldwide": 57968936
+    },
+    {
+      "title": "Predator 2",
+      "worldwide": 57120318
+    },
+    {
+      "title": "Arachnophobia",
+      "worldwide": 53208180
+    },
+    {
+      "title": "Awakenings",
+      "worldwide": 52096475
+    },
+    {
+      "title": "Darkman",
+      "worldwide": 48878502
+    },
+    {
+      "title": "Look Who's Talking Too",
+      "worldwide": 47789074
+    },
+    {
+      "title": "Hard to Kill",
+      "worldwide": 47410827
+    },
+    {
+      "title": "Goodfellas",
+      "worldwide": 46836214
+    },
+    {
+      "title": "RoboCop 2",
+      "worldwide": 45681173
+    },
+    {
+      "title": "Pacific Heights",
+      "worldwide": 44926706
+    },
+    {
+      "title": "The Jungle Book 1990 Re-release",
+      "worldwide": 44645619
+    },
+    {
+      "title": "Young Guns II",
+      "worldwide": 44143410
+    },
+    {
+      "title": "Gremlins 2: The New Batch",
+      "worldwide": 41482207
+    },
+    {
+      "title": "Joe Versus the Volcano",
+      "worldwide": 39404261
+    },
+    {
+      "title": "Postcards from the Edge",
+      "worldwide": 39071603
+    },
+    {
+      "title": "The Exorcist III",
+      "worldwide": 39024251
+    },
+    {
+      "title": "Child's Play 2",
+      "worldwide": 35763605
+    },
+    {
+      "title": "Mermaids",
+      "worldwide": 35419397
+    },
+    {
+      "title": "Air America",
+      "worldwide": 33461269
+    },
+    {
+      "title": "Green Card",
+      "worldwide": 29888235
+    },
+    {
+      "title": "The Rescuers Down Under",
+      "worldwide": 27931461
+    },
+    {
+      "title": "Internal Affairs",
+      "worldwide": 27734391
+    },
+    {
+      "title": "Cadillac Man",
+      "worldwide": 27627310
+    },
+    {
+      "title": "Memphis Belle",
+      "worldwide": 27441977
+    },
+    {
+      "title": "House Party",
+      "worldwide": 26385627
+    },
+    {
+      "title": "Jacob's Ladder",
+      "worldwide": 26118851
+    },
+    {
+      "title": "Ghost Dad",
+      "worldwide": 25421633
+    },
+    {
+      "title": "Fantasia 1990 Re-release",
+      "worldwide": 25363371
+    },
+    {
+      "title": "Navy Seals",
+      "worldwide": 25069101
+    },
+    {
+      "title": "Ernest Goes to Jail",
+      "worldwide": 25029569
+    },
+    {
+      "title": "My Blue Heaven",
+      "worldwide": 23591472
+    },
+    {
+      "title": "Henry & June",
+      "worldwide": 23472449
+    },
+    {
+      "title": "The Russia House",
+      "worldwide": 22997992
+    },
+    {
+      "title": "The First Power",
+      "worldwide": 22424195
+    },
+    {
+      "title": "The Rookie",
+      "worldwide": 21633874
+    },
+    {
+      "title": "The Freshman",
+      "worldwide": 21460601
+    },
+    {
+      "title": "The Adventures of Ford Fairlane",
+      "worldwide": 21413502
+    },
+    {
+      "title": "Quigley Down Under",
+      "worldwide": 21413105
+    },
+    {
+      "title": "Madhouse",
+      "worldwide": 21036771
+    },
+    {
+      "title": "Hamlet",
+      "worldwide": 20710451
+    },
+    {
+      "title": "Jetsons: The Movie",
+      "worldwide": 20305841
+    },
+    {
+      "title": "Stella",
+      "worldwide": 20240128
+    },
+    {
+      "title": "Taking Care of Business",
+      "worldwide": 20005435
+    },
+    {
+      "title": "Betsy's Wedding",
+      "worldwide": 19740070
+    },
+    {
+      "title": "DuckTales the Movie: Treasure of the Lost Lamp",
+      "worldwide": 18115724
+    },
+    {
+      "title": "Sibling Rivalry",
+      "worldwide": 17854933
+    },
+    {
+      "title": "White Palace",
+      "worldwide": 17487531
+    },
+    {
+      "title": "The Guardian",
+      "worldwide": 17037887
+    },
+    {
+      "title": "Death Warrant",
+      "worldwide": 16853487
+    },
+    {
+      "title": "Tremors",
+      "worldwide": 16667084
+    },
+    {
+      "title": "Tales from the Darkside: The Movie",
+      "worldwide": 16324573
+    },
+    {
+      "title": "Men at Work",
+      "worldwide": 16247964
+    },
+    {
+      "title": "I Love You to Death",
+      "worldwide": 16186793
+    },
+    {
+      "title": "Mo' Better Blues",
+      "worldwide": 16153593
+    },
+    {
+      "title": "Avalon",
+      "worldwide": 15740796
+    },
+    {
+      "title": "The Bonfire of the Vanities",
+      "worldwide": 15691192
+    },
+    {
+      "title": "Revenge",
+      "worldwide": 15645616
+    },
+    {
+      "title": "Reversal of Fortune",
+      "worldwide": 15445131
+    },
+    {
+      "title": "Mr. Destiny",
+      "worldwide": 15379253
+    },
+    {
+      "title": "Spaced Invaders",
+      "worldwide": 15369573
+    },
+    {
+      "title": "Quick Change",
+      "worldwide": 15260154
+    },
+    {
+      "title": "Fire Birds",
+      "worldwide": 14760451
+    },
+    {
+      "title": "Wild at Heart",
+      "worldwide": 14560247
+    },
+    {
+      "title": "Lord of the Flies",
+      "worldwide": 13985225
+    },
+    {
+      "title": "The Grifters",
+      "worldwide": 13446769
+    },
+    {
+      "title": "Crazy People",
+      "worldwide": 13236513
+    },
+    {
+      "title": "Bad Influence",
+      "worldwide": 12626043
+    },
+    {
+      "title": "Cinema Paradiso",
+      "worldwide": 11990401
+    },
+    {
+      "title": "Graveyard Shift",
+      "worldwide": 11582891
+    },
+    {
+      "title": "Pump Up the Volume",
+      "worldwide": 11541758
+    },
+    {
+      "title": "Opportunity Knocks",
+      "worldwide": 11359129
+    },
+    {
+      "title": "Q & A",
+      "worldwide": 11207891
+    },
+    {
+      "title": "Wild Orchid",
+      "worldwide": 11060485
+    },
+    {
+      "title": "Nuns on the Run",
+      "worldwide": 10959015
+    },
+    {
+      "title": "Narrow Margin",
+      "worldwide": 10873237
+    },
+    {
+      "title": "The Witches",
+      "worldwide": 10360553
+    },
+    {
+      "title": "The Adventures of Milo and Otis 1990 Re-release",
+      "worldwide": 10351534
+    },
+    {
+      "title": "The Two Jakes",
+      "worldwide": 10005969
+    },
+    {
+      "title": "Miami Blues",
+      "worldwide": 9888167
+    },
+    {
+      "title": "Havana",
+      "worldwide": 9243140
+    },
+    {
+      "title": "Nightbreed",
+      "worldwide": 8862354
+    },
+    {
+      "title": "Ski Patrol",
+      "worldwide": 8533973
+    },
+    {
+      "title": "Cry-Baby",
+      "worldwide": 8266343
+    },
+    {
+      "title": "Blue Steel",
+      "worldwide": 8217997
+    },
+    {
+      "title": "Funny About Love",
+      "worldwide": 8141292
+    },
+    {
+      "title": "The Cook, the Thief, His Wife & Her Lover",
+      "worldwide": 7724701
+    },
+    {
+      "title": "Mr. & Mrs. Bridge",
+      "worldwide": 7698010
+    },
+    {
+      "title": "Alice",
+      "worldwide": 7331647
+    },
+    {
+      "title": "Almost an Angel",
+      "worldwide": 6939946
+    },
+    {
+      "title": "Delta Force 2: The Colombian Connection",
+      "worldwide": 6698361
+    },
+    {
+      "title": "Flashback",
+      "worldwide": 6488114
+    },
+    {
+      "title": "The Gods Must Be Crazy II",
+      "worldwide": 6291444
+    },
+    {
+      "title": "Men Don't Leave",
+      "worldwide": 6070725
+    },
+    {
+      "title": "Night of the Living Dead",
+      "worldwide": 5835247
+    },
+    {
+      "title": "Cyrano de Bergerac",
+      "worldwide": 5820020
+    },
+    {
+      "title": "Stanley & Iris",
+      "worldwide": 5820015
+    },
+    {
+      "title": "Leatherface: Texas Chainsaw Massacre III",
+      "worldwide": 5765562
+    },
+    {
+      "title": "Hardware",
+      "worldwide": 5728953
+    },
+    {
+      "title": "Loose Cannons",
+      "worldwide": 5585154
+    },
+    {
+      "title": "Miller's Crossing",
+      "worldwide": 5080409
+    },
+    {
+      "title": "The Handmaid's Tale",
+      "worldwide": 4960385
+    },
+    {
+      "title": "The Long Walk Home",
+      "worldwide": 4873620
+    },
+    {
+      "title": "Longtime Companion",
+      "worldwide": 4609953
+    },
+    {
+      "title": "Graffiti Bridge",
+      "worldwide": 4562778
+    },
+    {
+      "title": "Dark Angel",
+      "worldwide": 4348368
+    },
+    {
+      "title": "Lisa",
+      "worldwide": 4347648
+    },
+    {
+      "title": "Lambada",
+      "worldwide": 4263112
+    },
+    {
+      "title": "China Cry: A True Story",
+      "worldwide": 4212828
+    },
+    {
+      "title": "Heart Condition",
+      "worldwide": 4134992
+    },
+    {
+      "title": "Tie Me Up! Tie Me Down!",
+      "worldwide": 4087361
+    },
+    {
+      "title": "Mountains of the Moon",
+      "worldwide": 4011793
+    },
+    {
+      "title": "Short Time",
+      "worldwide": 4010647
+    },
+    {
+      "title": "Welcome Home, Roxy Carmichael",
+      "worldwide": 3989297
+    },
+    {
+      "title": "The Lemon Sisters",
+      "worldwide": 3473905
+    },
+    {
+      "title": "A Shock to the System",
+      "worldwide": 3417056
+    },
+    {
+      "title": "Metropolitan",
+      "worldwide": 2938208
+    },
+    {
+      "title": "Desperate Hours",
+      "worldwide": 2742912
+    },
+    {
+      "title": "Blind Fury",
+      "worldwide": 2692037
+    },
+    {
+      "title": "After Dark, My Sweet",
+      "worldwide": 2678414
+    },
+    {
+      "title": "King of New York",
+      "worldwide": 2554476
+    },
+    {
+      "title": "Impulse",
+      "worldwide": 2544504
+    },
+    {
+      "title": "Class of 1999",
+      "worldwide": 2459895
+    },
+    {
+      "title": "Body Chemistry",
+      "worldwide": 2415312
+    },
+    {
+      "title": "Downtown",
+      "worldwide": 2346150
+    },
+    {
+      "title": "White Hunter Black Heart",
+      "worldwide": 2319124
+    },
+    {
+      "title": "The Nasty Girl",
+      "worldwide": 2281569
+    },
+    {
+      "title": "Texasville",
+      "worldwide": 2268181
+    },
+    {
+      "title": "Vincent & Theo",
+      "worldwide": 2231274
+    },
+    {
+      "title": "Def by Temptation",
+      "worldwide": 2218579
+    },
+    {
+      "title": "Eating",
+      "worldwide": 2100538
+    },
+    {
+      "title": "The Sheltering Sky",
+      "worldwide": 2075084
+    },
+    {
+      "title": "The Krays",
+      "worldwide": 2060847
+    },
+    {
+      "title": "Dreams",
+      "worldwide": 1963207
+    },
+    {
+      "title": "State of Grace",
+      "worldwide": 1911542
+    },
+    {
+      "title": "The Forbidden Dance",
+      "worldwide": 1823154
+    },
+    {
+      "title": "Tune in Tomorrow...",
+      "worldwide": 1794001
+    },
+    {
+      "title": "The Nutcracker Prince",
+      "worldwide": 1781694
+    },
+    {
+      "title": "Too Beautiful for You",
+      "worldwide": 1776440
+    },
+    {
+      "title": "Last Exit to Brooklyn",
+      "worldwide": 1730005
+    },
+    {
+      "title": "The Rain Killer",
+      "worldwide": 1696066
+    },
+    {
+      "title": "Brain Dead",
+      "worldwide": 1627955
+    },
+    {
+      "title": "Jesus of Montreal",
+      "worldwide": 1601612
+    },
+    {
+      "title": "May Fools",
+      "worldwide": 1576702
+    },
+    {
+      "title": "The Haunting of Morella",
+      "worldwide": 1547867
+    },
+    {
+      "title": "The Last of the Finest",
+      "worldwide": 1531489
+    },
+    {
+      "title": "Streets",
+      "worldwide": 1510053
+    },
+    {
+      "title": "A Cry in the Wild",
+      "worldwide": 1494969
+    },
+    {
+      "title": "The Field",
+      "worldwide": 1494399
+    },
+    {
+      "title": "Love at Large",
+      "worldwide": 1436308
+    },
+    {
+      "title": "Monsieur Hire",
+      "worldwide": 1417030
+    },
+    {
+      "title": "Courage Mountain",
+      "worldwide": 1393610
+    },
+    {
+      "title": "Repossessed",
+      "worldwide": 1382462
+    },
+    {
+      "title": "Daddy's Dyin'... Who's Got the Will?",
+      "worldwide": 1373728
+    },
+    {
+      "title": "Everybody Wins",
+      "worldwide": 1372350
+    },
+    {
+      "title": "The Fourth War",
+      "worldwide": 1305887
+    },
+    {
+      "title": "The Hot Spot",
+      "worldwide": 1293976
+    },
+    {
+      "title": "Bloodfist II",
+      "worldwide": 1292323
+    },
+    {
+      "title": "This Is Not Frank's Planet/Snowie and the Seven Dorps/Poumse...",
+      "worldwide": 1289551
+    },
+    {
+      "title": "Robot Jox",
+      "worldwide": 1272977
+    },
+    {
+      "title": "Slumber Party Massacre III",
+      "worldwide": 1242995
+    },
+    {
+      "title": "The Icicle Thief",
+      "worldwide": 1231622
+    },
+    {
+      "title": "Vital Signs",
+      "worldwide": 1224605
+    },
+    {
+      "title": "Without You I'm Nothing",
+      "worldwide": 1218730
+    },
+    {
+      "title": "The Boyfriend School",
+      "worldwide": 1171762
+    },
+    {
+      "title": "To Sleep with Anger",
+      "worldwide": 1161135
+    },
+    {
+      "title": "Where the Heart Is",
+      "worldwide": 1106475
+    },
+    {
+      "title": "Hidden Agenda",
+      "worldwide": 1030938
+    },
+    {
+      "title": "Corporate Affairs",
+      "worldwide": 1006575
+    },
+    {
+      "title": "Come See the Paradise",
+      "worldwide": 947306
+    },
+    {
+      "title": "Sweetie",
+      "worldwide": 938065
+    },
+    {
+      "title": "The Blood of Heroes",
+      "worldwide": 882290
+    },
+    {
+      "title": "Angel Town",
+      "worldwide": 855810
+    },
+    {
+      "title": "Waiting for the Light",
+      "worldwide": 808690
+    },
+    {
+      "title": "C'est la vie",
+      "worldwide": 805472
+    },
+    {
+      "title": "Listen Up: The Lives of Quincy Jones",
+      "worldwide": 776699
+    },
+    {
+      "title": "22nd Annual International Tournée of Animation",
+      "worldwide": 768304
+    },
+    {
+      "title": "Strapless",
+      "worldwide": 764794
+    },
+    {
+      "title": "Coupe de Ville",
+      "worldwide": 715983
+    },
+    {
+      "title": "The Return of Superfly",
+      "worldwide": 610402
+    },
+    {
+      "title": "Henry: Portrait of a Serial Killer",
+      "worldwide": 609939
+    },
+    {
+      "title": "Rosalie Goes Shopping",
+      "worldwide": 574080
+    },
+    {
+      "title": "Strike It Rich",
+      "worldwide": 541626
+    },
+    {
+      "title": "The Tall Guy",
+      "worldwide": 510712
+    },
+    {
+      "title": "Roger Corman's Frankenstein Unbound",
+      "worldwide": 334748
+    },
+    {
+      "title": "Chattahoochee",
+      "worldwide": 259486
+    },
+    {
+      "title": "Pathfinder",
+      "worldwide": 242994
+    },
+    {
+      "title": "Frankenhooker",
+      "worldwide": 205068
+    },
+    {
+      "title": "Martians Go Home",
+      "worldwide": 129778
+    },
+    {
+      "title": "Torrents of Spring",
+      "worldwide": 111747
+    },
+    {
+      "title": "A Man Called Sarge",
+      "worldwide": 92706
+    },
+    {
+      "title": "A Show of Force",
+      "worldwide": 91578
+    },
+    {
+      "title": "Chicago Joe and the Showgirl",
+      "worldwide": 85395
+    },
+    {
+      "title": "Why Me?",
+      "worldwide": 83882
+    },
+    {
+      "title": "Fools of Fortune",
+      "worldwide": 83490
+    },
+    {
+      "title": "Speaking Parts",
+      "worldwide": 76609
+    },
+    {
+      "title": "Happy Together",
+      "worldwide": 70912
+    },
+    {
+      "title": "The Spirit of '76",
+      "worldwide": 52310
+    },
+    {
+      "title": "Spontaneous Combustion",
+      "worldwide": 50367
+    },
+    {
+      "title": "Twister",
+      "worldwide": 33455
+    },
+    {
+      "title": "Red Surf",
+      "worldwide": 13136
+    },
+    {
+      "title": "Diamond's Edge",
+      "worldwide": 12751
+    },
+    {
+      "title": "The Feud",
+      "worldwide": 3102
+    }
+  ]
+}
